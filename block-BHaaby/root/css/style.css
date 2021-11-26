@@ -127,7 +127,9 @@ list */
 {
     padding-left: 40px;
 }
-
+.sub-menu li{
+    list-style-type: square;
+}
 .list3 li{
     font-size: 46px;
     list-style-type: none;
